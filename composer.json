@@ -1,0 +1,10 @@
+{
+    "name": "swissup/slick-carousel",
+    "description": "the last carousel you'll ever need for magento2",
+    "type": "metapackage",
+    "version": "1.2.0",
+    "license": "MIT",
+    "require": {
+        "swissup/module-slick-carousel": "^1.2.0"
+    }
+}
